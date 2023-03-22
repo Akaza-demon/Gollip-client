@@ -11,7 +11,9 @@ Gollip client - The best client in my opinion with a large number of all the nec
 1. !addwar NICK (glow red to wars)
 2. !clone NICK (clone skin n`name)
 3. !delclone (remove clone of people on ur name)
-4. !delwar NICK (dels war)
+4. !delwar NICK (dels war(glow))
+5. !addteam NICK (glow green to teams/friends)
+6. !delteam NICK (dels teams/friends(glow))
 
 ❗How to use
 ------------------------------
