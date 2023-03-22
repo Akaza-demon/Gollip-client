@@ -4,7 +4,7 @@
 
 🔐Best client for DDNet
 ------------------------------
-Is the best client on DDNet with more features for block or FNG
+Gollip client - The best client in my opinion with a large number of all the necessary functions for the block and so on. Previously, gollip could only be obtained from one person or 4, but now, with the creation of this repository, ABSOLUTELY anyone can download it without asking certain people
 
 ⌨️Commands (that i know)
 ------------------------------
