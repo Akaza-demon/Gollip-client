@@ -1,6 +1,6 @@
 #                                  🤑Gollip-client
 ------------------------------
-![alt text](https://i.pinimg.com/originals/90/d2/52/90d2528ea889abf70896e71962910aad.jpg)
+![alt text](https://i.pinimg.com/736x/96/c3/46/96c34662560d5f66ac277eb78e8b9e2b--letter-g-type-design.jpg)
 
 🔐Best client for DDNet
 ------------------------------
@@ -17,7 +17,7 @@ Is the best client on DDNet with more features for block or FNG
 ------------------------------
 1. DOWNLOAD
 2. EXTRACT TO DEKSTOP
-3. LAUNCH DDNET (NO MATTER ADM/NO ADM)
+3. LAUNCH DDNET.EXE (NO MATTER ADM/NO ADM)
 4. HAPPY TO GOLLIP
 
 🖥️Credits
